@@ -190,3 +190,32 @@
   transform: scale(1.05);
   transition: transform 0.2s ease;
 }
+
+.card__footer {
+  margin-top: auto;
+  padding-top: 20px;
+  font-size: 0.75rem;
+  color: var(--dark-red);
+  opacity: 0.8;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.card__footer a {
+  color: var(--dark-red);
+  font-weight: 700;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.3s ease;
+}
+
+.card__footer a:hover {
+  border-bottom: 1px solid var(--dark-red);
+}
+
+@media (max-width: 500px) {
+  .card__footer {
+    padding-bottom: 10px;
+  }
+}
