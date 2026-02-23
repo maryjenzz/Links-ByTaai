@@ -1,7 +1,7 @@
 {
   "name": "By",
   "lastName": "  Taai",
-  "avatar": "/assets/logo.png",
+  "avatar": "assets/logo.png",
 
   "description": "Joias & Semijoias Premium",
 
@@ -23,12 +23,12 @@
   "socialLinks": [
     {
       "text": "Instagram",
-      "icon": "/assets/instagram.png",
+      "icon": "assets/instagram.png",
       "href": "https://www.instagram.com/by.taaijoias_/"
     },
     {
       "text": "Facebook",
-      "icon": "/assets/facebook.png",
+      "icon": "assets/facebook.png",
       "href": "https://www.facebook.com/brigitbytaai/?ref=PROFILE_EDIT_xav_ig_profile_page_web#"
     }
   ]
