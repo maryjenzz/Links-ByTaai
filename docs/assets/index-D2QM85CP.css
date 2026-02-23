@@ -29,7 +29,7 @@
   }
 }
 .background {
-  background-image: url(assets/Desktop.png);
+  background-image: url(/assets/desktop.png);
   background-size: cover;
   background-position: center;
 }
